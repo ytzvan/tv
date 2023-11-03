@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-ID="" tvg-name="[US] ABC NEWS HD" tvg-logo="https://4k.logo-cdn.cc/abcnews.png" group-title="[US] GENERAL",[US] ABC NEWS HD
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/360765
+#EXTINF:-1 tvg-ID="" tvg-name="[US] CBS HD" tvg-logo="https://4k.logo-cdn.cc/cbsny.png" group-title="[US] GENERAL",[US] CBS HD
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/360766
+#EXTINF:-1 tvg-ID="" tvg-name="[US] CBS NEWS HD" tvg-logo="https://4k.logo-cdn.cc/cbsnews.png" group-title="[US] GENERAL",[US] CBS NEWS HD
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/360767
+#EXTINF:-1 tvg-ID="" tvg-name="[US] FOX HD" tvg-logo="https://4k.logo-cdn.cc/fox.png" group-title="[US] GENERAL",[US] FOX HD
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/360768
+#EXTINF:-1 tvg-ID="cnn.us" tvg-name="[US] CNN HD" tvg-logo="https://4k.logo-cdn.cc/cnn.png" group-title="[US] GENERAL",[US] CNN HD
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/360770
+#EXTINF:-1 tvg-ID="cnninternational.us" tvg-name="[US] CNN INTERNATIONAL HD" tvg-logo="https://4k.logo-cdn.cc/cnninternational.png" group-title="[US] GENERAL",[US] CNN INTERNATIONAL HD
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/360771
+#EXTINF:-1 tvg-ID="cw.us" tvg-name="[US] CW HD" tvg-logo="https://4k.logo-cdn.cc/cw.png" group-title="[US] GENERAL",[US] CW HD
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/360772
+#EXTINF:-1 tvg-ID="nbcuniverso.us" tvg-name="[US] NBC UNIVERSO HD" tvg-logo="https://4k.logo-cdn.cc/nbcuniverso.png" group-title="[US] GENERAL",[US] NBC UNIVERSO HD
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/360773
+#EXTINF:-1 tvg-ID="bloombergtv.us" tvg-name="[US] BLOOMBERG HD" tvg-logo="https://4k.logo-cdn.cc/bloomberg.png" group-title="[US] GENERAL",[US] BLOOMBERG HD
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/360780
+#EXTINF:-1 tvg-ID="hbo.us" tvg-name="[US] HBO HD [EAST]" tvg-logo="https://4k.logo-cdn.cc/hbo.png" group-title="[US] MOVIES",[US] HBO HD [EAST]
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/361401
+#EXTINF:-1 tvg-ID="hbowest.us" tvg-name="[US] HBO HD [WEST]" tvg-logo="https://4k.logo-cdn.cc/hbo.png" group-title="[US] MOVIES",[US] HBO HD [WEST]
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/361402
+#EXTINF:-1 tvg-ID="foodnetwork.us" tvg-name="[US] FOOD NETWORK HD " tvg-logo="https://4k.logo-cdn.cc/foodnetwork.png" group-title="[US] ENTERTAINMENT",[US] FOOD NETWORK HD 
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/360548
+#EXTINF:-1 tvg-ID="tycsports.us" tvg-name="[US] TYC SPORTS HD" tvg-logo="https://4k.logo-cdn.cc/tycsports.png" group-title="[US] SPORTS",[US] TYC SPORTS HD
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/362714
+group-title="[US] SPORTS",[US] CBS SPORTS NETWORK HD
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/362715
+#EXTINF:-1 tvg-ID="nflnetwork.us" tvg-name="[US] NFL NETWORK HD" tvg-logo="https://4k.logo-cdn.cc/nflnetwork.png" group-title="[US] SPORTS",[US] NFL NETWORK HD
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/362733
+#EXTINF:-1 tvg-ID="" tvg-name="[US] UNIVISION TUDN " tvg-logo="https://4k.logo-cdn.cc/univisiontdn.png" group-title="[US] SPORTS",[US] UNIVISION TUDN 
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/362736
+#EXTINF:-1 tvg-ID="espn.us" tvg-name="[US] ESPN HD" tvg-logo="https://4k.logo-cdn.cc/espn.png" group-title="[US] SPORTS",[US] ESPN HD
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/362740
+#EXTINF:-1 tvg-ID="espn2.us" tvg-name="[US] ESPN 2 HD" tvg-logo="https://4k.logo-cdn.cc/espn2.png" group-title="[US] SPORTS",[US] ESPN 2 HD
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/362741
+#EXTINF:-1 tvg-ID="espndeportes.us" tvg-name="[US] ESPN DEPORTES HD" tvg-logo="https://4k.logo-cdn.cc/espndeportes.png" group-title="[US] SPORTS",[US] ESPN DEPORTES HD
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/362742
+#EXTINF:-1 tvg-ID="beinsports.us" tvg-name="[US] BEIN SPORTS HD" tvg-logo="https://4k.logo-cdn.cc/beinsports.png" group-title="[US] SPORTS",[US] BEIN SPORTS HD
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/362747
+#EXTINF:-1 tvg-ID="beinsportespanol.us" tvg-name="[US] BEIN SPORTS EN ESPANOL HD" tvg-logo="https://4k.logo-cdn.cc/beinsportsenespanolhd.png" group-title="[US] SPORTS",[US] BEIN SPORTS EN ESPANOL HD
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/362754
+#EXTINF:-1 tvg-ID="beinsportslaliga.us" tvg-name="[US] BEIN SPORTS LALIGA HD" tvg-logo="https://4k.logo-cdn.cc/beinsportslaliga.png" group-title="[US] SPORTS",[US] BEIN SPORTS LALIGA HD
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/362755
+#EXTINF:-1 tvg-ID="nbcsportschicago.us" tvg-name="[US] NBC SPORTS HD [CHICAGO]" tvg-logo="https://4k.logo-cdn.cc/nbcsportschicago.png" group-title="[US] SPORTS",[US] NBC SPORTS HD [CHICAGO]
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/362762
+#EXTINF:-1 tvg-ID="nbcsportsnetwork.us" tvg-name="[US] NBC SPORTS NETWORK HD" tvg-logo="https://4k.logo-cdn.cc/nbcsportsnetwork.png" group-title="[US] SPORTS",[US] NBC SPORTS NETWORK HD
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/362763
+#EXTINF:-1 tvg-ID="foxsportsdetroitplus.us" tvg-name="[US] FOX SPORTS [DETROIT PLUS]" tvg-logo="https://4k.logo-cdn.cc/foxsportsdetroit.png" group-title="[US] SPORTS",[US] FOX SPORTS [DETROIT PLUS]
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/362816
+#EXTINF:-1 tvg-ID="" tvg-name="[US] FOX SPORTS [NORTH]" tvg-logo="https://4k.logo-cdn.cc/foxsportsnorth.png" group-title="[US] SPORTS",[US] FOX SPORTS [NORTH]
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/362839
+#EXTINF:-1 tvg-ID="" tvg-name="UFC Fight Pass 24/7" tvg-logo="https://4k.logo-cdn.cc/ufc247hd.png" group-title="[US] PPV & UFC",UFC Fight Pass 24/7
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/413306
+#EXTINF:-1 tvg-ID="" tvg-name="UFC CHANNEL FHD" tvg-logo="" group-title="[US] PPV & UFC",UFC CHANNEL FHD
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/735020
+#EXTINF:-1 tvg-ID="" tvg-name="UFC PPV : GLORY RIVALS 5" tvg-logo="https://4k.logo-cdn.cc/ufc247hd.png" group-title="[US] PPV & UFC",UFC PPV : GLORY RIVALS 5
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/413309
+#EXTINF:-1 tvg-ID="" tvg-name="NFL GAME 00 :" tvg-logo="https://4k.logo-cdn.cc/nfl.png" group-title="[US] NFL",NFL GAME 00 :
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/361945
+#EXTINF:-1 tvg-ID="" tvg-name="[FR] CANAL+ FORMULE 1 HEVC" tvg-logo="https://4k.logo-cdn.cc/4K-CANAL+FORMULA1.png" group-title="[FR] SPORTS",[FR] CANAL+ FORMULE 1 HEVC
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/346583
+#EXTINF:-1 tvg-ID="" tvg-name="[F1] SKY SPORT F1 HD (DE)" tvg-logo="https://4k.logo-cdn.cc/formula1.png" group-title="[F1] FORMULA 1 | MOTOGP",[F1] SKY SPORT F1 HD (DE)
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/367860
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="[F1] SKY SPORTS F1 FHD (UK)" tvg-logo="https://4k.logo-cdn.cc/formula1.png" group-title="[F1] FORMULA 1 | MOTOGP",[F1] SKY SPORTS F1 FHD (UK)
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/367865
+#EXTINF:-1 tvg-ID="" tvg-name="[F1] F1 TV PIT LANE" tvg-logo="https://4k.logo-cdn.cc/formula1.png" group-title="[F1] FORMULA 1 | MOTOGP",[F1] F1 TV PIT LANE
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/367872
+#EXTINF:-1 tvg-ID="" tvg-name="[F1] F1 TV DATA" tvg-logo="https://4k.logo-cdn.cc/formula1.png" group-title="[F1] FORMULA 1 | MOTOGP",[F1] F1 TV DATA
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/367873
+FORMULA 1 | MOTOGP",[F1] F1 TV VER VERSTAPPEN REDBULLRACING (ONBOARD)
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/367900
+#EXTINF:-1 tvg-ID="" tvg-name="[F1] F1 TV PER PEREZ REDBULLRACING (ONBOARD)" tvg-logo="https://4k.logo-cdn.cc/formula1.png" group-title="[F1] FORMULA 1 | MOTOGP",[F1] F1 TV PER PEREZ REDBULLRACING (ONBOARD)
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/367880
+#EXTINF:-1 tvg-ID="" tvg-name="[F1] DAZN F1 FHD (ES)" tvg-logo="https://4k.logo-cdn.cc/formula1.png" group-title="[F1] FORMULA 1 | MOTOGP",[F1] DAZN F1 FHD (ES)
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/367867
+#EXTINF:-1 tvg-ID="skysportsf1.uk" tvg-name="[F1] SKY SPORTS F1 FHD (UK)" tvg-logo="https://4k.logo-cdn.cc/formula1.png" group-title="[F1] FORMULA 1 | MOTOGP",[F1] SKY SPORTS F1 FHD (UK)
+http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/367865
