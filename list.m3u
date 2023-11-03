@@ -25,7 +25,7 @@ http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/361402
 http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/360548
 #EXTINF:-1 tvg-ID="tycsports.us" tvg-name="[US] TYC SPORTS HD" tvg-logo="https://4k.logo-cdn.cc/tycsports.png" group-title="[US] SPORTS",[US] TYC SPORTS HD
 http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/362714
-group-title="[US] SPORTS",[US] CBS SPORTS NETWORK HD
+#EXTINF:-1 tvg-ID="tycsports.us" tvg-name="[US] CBS SPORTS NETWORK HD" tvg-logo="https://4k.logo-cdn.cc/tycsports.png" group-title="group-title="[US] SPORTS",[US] CBS SPORTS NETWORK HD
 http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/362715
 #EXTINF:-1 tvg-ID="nflnetwork.us" tvg-name="[US] NFL NETWORK HD" tvg-logo="https://4k.logo-cdn.cc/nflnetwork.png" group-title="[US] SPORTS",[US] NFL NETWORK HD
 http://line.4k-beast.co:80/IEIVIVNVRX/ZKQCAZHTCQ/362733
